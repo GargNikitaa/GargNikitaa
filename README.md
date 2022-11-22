@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargnikitaa&label=Profile%20views&color=0e75b6&style=flat" alt="gargnikitaa" /> </p>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase and Data Structures & Algorithms**
 
 - 💬 Ask me about **Flutter, HTML, CSS, Python, C++**
 
